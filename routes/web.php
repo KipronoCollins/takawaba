@@ -16,5 +16,6 @@ Route::get('sources', [MainController::class, 'sources']);
 Route::get('serviceArea', [MainController::class, 'serviceArea']);
 Route::get('sewer', [MainController::class, 'sewer']);
 Route::get('waterServices', [MainController::class, 'waterServices']);
+Route::get('photoGallery', [MainController::class, 'photoGallery']);
 
 

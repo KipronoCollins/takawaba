@@ -2,12 +2,12 @@
 
 @section('content')
 
-<section id="doctors" class="doctors section">
+<section id="management" class="management section">
 
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>Management Team</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+        <p>Meet the dedicated professionals overseeing the operations of Takaba Water and Sewerage Company</p>
       </div><!-- End Section Title -->
 
       <div class="container">
@@ -16,11 +16,11 @@
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <div class="team-member d-flex align-items-start">
-              <div class="pic"><img src="{{ asset('assets/img/doctors/doctors-1.jpg') }}" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="{{ asset('assets/img/team/ceo.jpg') }}" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Walter White</h4>
-                <span>Chief Medical Officer</span>
-                <p>Explicabo voluptatem mollitia et repellat qui dolorum quasi</p>
+                <h4>Ahmed Noor</h4>
+                <span>Chief Executive Officer</span>
+                <p>Oversees overall company strategy, performance, and stakeholder engagement.</p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter-x"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -33,11 +33,11 @@
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
             <div class="team-member d-flex align-items-start">
-              <div class="pic"><img src="{{ asset('assets/img/doctors/doctors-2.jpg') }}" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="{{ asset('assets/img/team/operations.jpg') }}" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Sarah Jhonson</h4>
-                <span>Anesthesiologist</span>
-                <p>Aut maiores voluptates amet et quis praesentium qui senda para</p>
+                <h4>Fatuma Ibrahim</h4>
+                <span>Head of Operations</span>
+                <p>Leads the management of water and sewer services ensuring smooth daily operations.</p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter-x"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -50,11 +50,11 @@
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
             <div class="team-member d-flex align-items-start">
-              <div class="pic"><img src="{{ asset('assets/img/doctors/doctors-3.jpg') }}" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="{{ asset('assets/img/team/finance.jpg') }}" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>William Anderson</h4>
-                <span>Cardiology</span>
-                <p>Quisquam facilis cum velit laborum corrupti fuga rerum quia</p>
+                <h4>Joseph Kiptoo</h4>
+                <span>Chief Financial Officer</span>
+                <p>Responsible for budgeting, financial planning, and resource allocation for the company.</p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter-x"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -67,11 +67,11 @@
 
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
             <div class="team-member d-flex align-items-start">
-              <div class="pic"><img src="{{ asset('assets/img/doctors/doctors-4.jpg') }}" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="{{ asset('assets/img/team/engineering.jpg') }}" class="img-fluid" alt=""></div>
               <div class="member-info">
-                <h4>Amanda Jepson</h4>
-                <span>Neurosurgeon</span>
-                <p>Dolorum tempora officiis odit laborum officiis et et accusamus</p>
+                <h4>Naima Mohamed</h4>
+                <span>Technical Manager</span>
+                <p>Leads engineering teams in maintaining and expanding the water and sewerage infrastructure.</p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter-x"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -86,6 +86,6 @@
 
       </div>
 
-    </section><!-- /Doctors Section -->
+    </section><!-- /Management Section -->
 
-    @endsection
+@endsection

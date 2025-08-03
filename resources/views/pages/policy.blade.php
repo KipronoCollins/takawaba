@@ -2,85 +2,110 @@
 
 @section('content')
 
-<section id="departments" class="departments section">
+<!-- Company Policy Section -->
+<section id="company-policy" class="departments section">
 
-      <!-- Section Title -->
-      <div class="container section-title" data-aos="fade-up">
-        <h2>Anti-corruption and Mis-conduct Policy</h2>
-        <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
-      </div><!-- End Section Title -->
+  <!-- Section Title -->
+  <div class="container section-title" data-aos="fade-up">
+    <h2>Our Company Policy</h2>
+    <p>At Takaba Water and Sewerage Company, our policies guide our operations, ensuring transparency, sustainability, and accountability in all our services.</p>
+  </div><!-- End Section Title -->
 
-      <div class="container" data-aos="fade-up" data-aos-delay="100">
+  <div class="container" data-aos="fade-up" data-aos-delay="100">
 
-        <div class="row">
-          <div class="col-lg-12 mt-4 mt-lg-0">
-            <div class="tab-content">
-              <div class="tab-pane active show" id="departments-tab-1">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Cardiology</h3>
-                    <p class="fst-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
-                    <p>Et nobis maiores eius. Voluptatibus ut enim blanditiis atque harum sint. Laborum eos ipsum ipsa odit magni. Incidunt hic ut molestiae aut qui. Est repellat minima eveniet eius et quis magni nihil. Consequatur dolorem quaerat quos qui similique accusamus nostrum rem vero</p>
-                  </div>
-                  <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="{{ asset('assets/img/departments-1.jpg') }}" alt="" class="img-fluid">
-                  </div>
-                </div>
+    <div class="row">
+      <div class="col-lg-3">
+        <ul class="nav nav-tabs flex-column">
+          <li class="nav-item">
+            <a class="nav-link active show" data-bs-toggle="tab" href="#policy-tab-1">Customer Service Policy</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" data-bs-toggle="tab" href="#policy-tab-2">Environmental Policy</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" data-bs-toggle="tab" href="#policy-tab-3">Water Quality Assurance</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" data-bs-toggle="tab" href="#policy-tab-4">Health & Safety Policy</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" data-bs-toggle="tab" href="#policy-tab-5">Governance & Compliance</a>
+          </li>
+        </ul>
+      </div>
+      <div class="col-lg-9 mt-4 mt-lg-0">
+        <div class="tab-content">
+          <div class="tab-pane active show" id="policy-tab-1">
+            <div class="row">
+              <div class="col-lg-8 details order-2 order-lg-1">
+                <h3>Customer Service Policy</h3>
+                <p class="fst-italic">Our commitment to serving customers with integrity, timeliness, and professionalism.</p>
+                <p>We aim to offer responsive and respectful service, resolve customer complaints efficiently, and ensure access to accurate billing and service information.</p>
               </div>
-              <div class="tab-pane" id="departments-tab-2">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Et blanditiis nemo veritatis excepturi</h3>
-                    <p class="fst-italic">Qui laudantium consequatur laborum sit qui ad sapiente dila parde sonata raqer a videna mareta paulona marka</p>
-                    <p>Ea ipsum voluptatem consequatur quis est. Illum error ullam omnis quia et reiciendis sunt sunt est. Non aliquid repellendus itaque accusamus eius et velit ipsa voluptates. Optio nesciunt eaque beatae accusamus lerode pakto madirna desera vafle de nideran pal</p>
-                  </div>
-                  <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="{{ asset('assets/img/departments-2.jpg') }}" alt="" class="img-fluid">
-                  </div>
-                </div>
-              </div>
-              <div class="tab-pane" id="departments-tab-3">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Impedit facilis occaecati odio neque aperiam sit</h3>
-                    <p class="fst-italic">Eos voluptatibus quo. Odio similique illum id quidem non enim fuga. Qui natus non sunt dicta dolor et. In asperiores velit quaerat perferendis aut</p>
-                    <p>Iure officiis odit rerum. Harum sequi eum illum corrupti culpa veritatis quisquam. Neque necessitatibus illo rerum eum ut. Commodi ipsam minima molestiae sed laboriosam a iste odio. Earum odit nesciunt fugiat sit ullam. Soluta et harum voluptatem optio quae</p>
-                  </div>
-                  <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="{{ asset('assets/img/departments-3.jpg') }}" alt="" class="img-fluid">
-                  </div>
-                </div>
-              </div>
-              <div class="tab-pane" id="departments-tab-4">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Fuga dolores inventore laboriosam ut est accusamus laboriosam dolore</h3>
-                    <p class="fst-italic">Totam aperiam accusamus. Repellat consequuntur iure voluptas iure porro quis delectus</p>
-                    <p>Eaque consequuntur consequuntur libero expedita in voluptas. Nostrum ipsam necessitatibus aliquam fugiat debitis quis velit. Eum ex maxime error in consequatur corporis atque. Eligendi asperiores sed qui veritatis aperiam quia a laborum inventore</p>
-                  </div>
-                  <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="{{ asset('assets/img/departments-4.jpg') }}" alt="" class="img-fluid">
-                  </div>
-                </div>
-              </div>
-              <div class="tab-pane" id="departments-tab-5">
-                <div class="row">
-                  <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Est eveniet ipsam sindera pad rone matrelat sando reda</h3>
-                    <p class="fst-italic">Omnis blanditiis saepe eos autem qui sunt debitis porro quia.</p>
-                    <p>Exercitationem nostrum omnis. Ut reiciendis repudiandae minus. Omnis recusandae ut non quam ut quod eius qui. Ipsum quia odit vero atque qui quibusdam amet. Occaecati sed est sint aut vitae molestiae voluptate vel</p>
-                  </div>
-                  <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="{{ asset('assets/img/departments-5.jpg') }}" alt="" class="img-fluid">
-                  </div>
-                </div>
+              <div class="col-lg-4 text-center order-1 order-lg-2">
+                <img src="assets/img/policy-1.jpg" alt="Customer Service" class="img-fluid">
               </div>
             </div>
           </div>
+
+          <div class="tab-pane" id="policy-tab-2">
+            <div class="row">
+              <div class="col-lg-8 details order-2 order-lg-1">
+                <h3>Environmental Policy</h3>
+                <p class="fst-italic">Protecting and conserving natural resources through sustainable water and sewerage practices.</p>
+                <p>We adhere to national environmental regulations, minimize pollution, promote conservation, and educate the community on sustainability.</p>
+              </div>
+              <div class="col-lg-4 text-center order-1 order-lg-2">
+                <img src="assets/img/policy-2.jpg" alt="Environmental Policy" class="img-fluid">
+              </div>
+            </div>
+          </div>
+
+          <div class="tab-pane" id="policy-tab-3">
+            <div class="row">
+              <div class="col-lg-8 details order-2 order-lg-1">
+                <h3>Water Quality Assurance</h3>
+                <p class="fst-italic">Guaranteeing clean and safe water to all our customers.</p>
+                <p>Routine lab testing, real-time monitoring, and adherence to WHO and KEBS standards help us deliver high-quality potable water.</p>
+              </div>
+              <div class="col-lg-4 text-center order-1 order-lg-2">
+                <img src="assets/img/policy-3.jpg" alt="Water Quality" class="img-fluid">
+              </div>
+            </div>
+          </div>
+
+          <div class="tab-pane" id="policy-tab-4">
+            <div class="row">
+              <div class="col-lg-8 details order-2 order-lg-1">
+                <h3>Health & Safety Policy</h3>
+                <p class="fst-italic">Ensuring safety for staff, contractors, and the public in all operations.</p>
+                <p>We provide regular safety training, enforce protective measures, and maintain emergency response protocols for all working environments.</p>
+              </div>
+              <div class="col-lg-4 text-center order-1 order-lg-2">
+                <img src="assets/img/policy-4.jpg" alt="Health and Safety" class="img-fluid">
+              </div>
+            </div>
+          </div>
+
+          <div class="tab-pane" id="policy-tab-5">
+            <div class="row">
+              <div class="col-lg-8 details order-2 order-lg-1">
+                <h3>Governance & Compliance</h3>
+                <p class="fst-italic">Operating transparently and lawfully in line with national standards and corporate ethics.</p>
+                <p>We uphold good governance, implement procurement best practices, and report financial and operational performance as required by regulatory bodies.</p>
+              </div>
+              <div class="col-lg-4 text-center order-1 order-lg-2">
+                <img src="assets/img/policy-5.jpg" alt="Governance" class="img-fluid">
+              </div>
+            </div>
+          </div>
+
         </div>
-
       </div>
+    </div>
 
-    </section><!-- /Departments Section -->
+  </div>
 
-    @endsection
+</section><!-- /Company Policy Section -->
+
+@endsection

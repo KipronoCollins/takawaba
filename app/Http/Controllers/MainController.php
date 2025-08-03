@@ -41,24 +41,34 @@ class MainController extends Controller
     {
         return view('pages.contact');
     }
+
     public function lab()
     {
         return view('pages.lab');
     }
+
     public function sources()
     {
         return view('pages.sources');
     }
+
     public function serviceArea()
     {
         return view('pages.serviceArea');
     }
+
     public function sewer()
     {
         return view('pages.sewer');
     }
+
     public function waterServices()
     {
         return view('pages.waterServices');
+    }
+
+    public function photoGallery()
+    {
+        return view('pages.photoGallery');
     }
 }
