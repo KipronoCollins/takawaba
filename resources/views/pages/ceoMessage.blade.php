@@ -29,7 +29,7 @@
                     <p>
                       I thank all our stakeholders — from customers and staff to partners and regulators — for your unwavering support. Together, we are building a future where water flows for everyone, every day.
                     </p>
-                    <p><strong>— Jane Muthoni<br>Chief Executive Officer</strong></p>
+                    <p><strong>— Mohamed Hassan Mohamed<br>Chief Executive Officer</strong></p>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
                     <img src="{{ asset('assets/img/departments-1.jpg') }}" alt="CEO Portrait" class="img-fluid">
