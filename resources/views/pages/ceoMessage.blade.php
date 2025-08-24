@@ -27,7 +27,7 @@
                       We continue to invest in modern technologies, enhance customer service, and improve efficiency across our operations. Our commitment to environmental stewardship and community engagement remains at the heart of everything we do.
                     </p>
                     <p>
-                      I thank all our stakeholders — from customers and staff to partners and regulators — for your unwavering support. Together, we are building a future where water flows for everyone, every day.
+                      I thank all our customers — from customers and staff to partners and regulators — for your unwavering support. Together, we are building a future where water flows for everyone, every day.
                     </p>
                     <p><strong>— Mohamed Hassan Mohamed<br>Chief Executive Officer</strong></p>
                   </div>
