@@ -15,14 +15,14 @@
     <div class="row g-0">
       @php
         $galleryImages = [
-          ['file' => 'gallery-1.jpg', 'alt' => 'Water intake point construction'],
-          ['file' => 'gallery-2.jpg', 'alt' => 'Pipeline installation in progress'],
-          ['file' => 'gallery-3.jpg', 'alt' => 'Reservoir maintenance team'],
-          ['file' => 'gallery-4.jpg', 'alt' => 'Community sensitization event'],
-          ['file' => 'gallery-5.jpg', 'alt' => 'Water testing and quality control'],
-          ['file' => 'gallery-6.jpg', 'alt' => 'New sewer system setup'],
-          ['file' => 'gallery-7.jpg', 'alt' => 'Company staff at training workshop'],
-          ['file' => 'gallery-8.jpg', 'alt' => 'Solar-powered pump station'],
+          ['file' => '1d.jpg', 'alt' => 'Water intake point construction'],
+          ['file' => '2d.jpg', 'alt' => 'Pipeline installation in progress'],
+          ['file' => '3d.jpg', 'alt' => 'Reservoir maintenance team'],
+          ['file' => '4d.jpg', 'alt' => 'Community sensitization event'],
+          ['file' => '5d.jpg', 'alt' => 'Water testing and quality control'],
+          ['file' => '6d.jpg', 'alt' => 'New sewer system setup'],
+          ['file' => '7d.jpg', 'alt' => 'Company staff at training workshop'],
+          ['file' => '8d.jpg', 'alt' => 'Solar-powered pump station'],
         ];
       @endphp
 
