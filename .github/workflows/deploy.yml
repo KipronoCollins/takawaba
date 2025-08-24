@@ -3,7 +3,8 @@ name: Deploy Laravel App to Droplet
 on:
   push:
     branches:
-      - master   # Runs only when pushing to master branch
+      - master
+      - main   # also allow main branch
 
 jobs:
   deploy:
