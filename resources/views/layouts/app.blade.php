@@ -65,7 +65,7 @@
             <li><a href="/" class="active">Home<br></a></li>
             <li class="dropdown"><a href="#"><span>About us</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
               <ul>
-                <li><a href="/about">About Tacawasco</a></li>
+                <li><a href="/about">About takawasco</a></li>
                 <li><a href="/ceoMessage">Message From The CEO</a></li>
                 <li><a href="/policy">Anti-corruption And Mis-conduct Policy</a></li>
                 <li><a href="/board">Board of Directors</a></li>
@@ -114,20 +114,20 @@
 
   </header>
   @yield('content')
-  <!-- Footer Section (Updated for TACAWASCO) -->
+  <!-- Footer Section (Updated for takawasco) -->
 <footer id="footer" class="footer light-background">
 
   <div class="container footer-top">
     <div class="row gy-4">
       <div class="col-lg-4 col-md-6 footer-about">
         <a href="index.html" class="logo d-flex align-items-center">
-          <span class="sitename">TACAWASCO</span>
+          <span class="sitename">takawasco</span>
         </a>
         <div class="footer-contact pt-3">
           <p>Takaba Town, Mandera County</p>
-          <p>P.O. Box 123 - 70300, Mandera</p>
+          <p>P.O. Box 440 - 70300, Mandera</p>
           <p class="mt-3"><strong>Phone:</strong> <span>+254 712 345678</span></p>
-          <p><strong>Email:</strong> <span>info@tacawasco.go.ke</span></p>
+          <p><strong>Email:</strong> <span>info@takawasco.go.ke</span></p>
         </div>
         <div class="social-links d-flex mt-4">
           <a href="#"><i class="bi bi-twitter-x"></i></a>
@@ -184,7 +184,7 @@
   </div>
 
   <div class="container copyright text-center mt-4">
-    <p>© <span>Copyright</span> <strong class="px-1 sitename">TACAWASCO</strong> <span>All Rights Reserved</span></p>
+    <p>© <span>Copyright</span> <strong class="px-1 sitename">takawasco</strong> <span>All Rights Reserved</span></p>
     <div class="credits">
       Website developed for <strong>Takaba Water and Sewerage Company</strong>
     </div>
